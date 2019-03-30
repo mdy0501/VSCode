@@ -78,7 +78,7 @@
 ● [View in Browser] : Alt + B
                            또는 Ctrl + <Shift> + P 누르고 Open In Default(Other) Browser 입력
 
-● 
+● [코드 정렬] : Ctrl + K F
 
 
 <마크다운 편집기>
