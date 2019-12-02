@@ -92,6 +92,7 @@
 
 # Key binding
 - `Git: Stage All Changes`: Alt + Enter
+- `Git: push`: Ctrl + Shift + Enter
 
 
 
