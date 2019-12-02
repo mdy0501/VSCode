@@ -1,4 +1,24 @@
 # VSCode Plugins
+
+### About Spring / Java
+- #### Language Support for Java(TM) by Red Hat
+
+- #### Spring Boot Tools
+
+- #### Spring Initializr Java Support
+
+- #### Spring Boot Extension Pack
+
+- #### Spring Boot Extension Pack
+
+- #### Spring Boot Support
+
+- #### Java Extension Pack
+
+- #### Lombok Annotations Support for VS Code
+
+<br><br>
+
 - #### Rainbow Rrackets
   - 코드 작성시 중첩도니 브라켓(브레이스)를 색으로 구별해주는 플러그인
 
@@ -67,6 +87,15 @@
 <br>
 <br>
 <br>
+
+
+# Key binding
+- `Git: Stage All Changes`: Alt + Enter
+
+
+
+
+
 
 참고 페이지
  - https://blog.hanumoka.net/2018/05/19/VisualStudioCode-20180519-visual-stuido-code-markdown-plugin/
